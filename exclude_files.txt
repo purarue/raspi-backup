@@ -1,13 +1,13 @@
 /home/data/media/pictures/Screenshots/
 /home/data/steam/
-/home/sean/.config/Slack/
-/home/sean/.config/discord/
-/home/sean/.config/Microsoft/
-/home/sean/.config/Microsoft Teams - Preview/
-/home/sean/.config/pulse/
-/home/sean/.config/configstore/
-/home/sean/.config/balena-etcher/
-/home/sean/.config/BraveSoftware/
-/home/sean/.config/chromium/
-/home/sean/.config/google-chrome/
-/home/sean/.config/coc/
+/home/username/.config/Slack/
+/home/username/.config/discord/
+/home/username/.config/Microsoft/
+/home/username/.config/Microsoft Teams - Preview/
+/home/username/.config/pulse/
+/home/username/.config/configstore/
+/home/username/.config/balena-etcher/
+/home/username/.config/BraveSoftware/
+/home/username/.config/chromium/
+/home/username/.config/google-chrome/
+/home/username/.config/coc/

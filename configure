@@ -2,7 +2,7 @@
 
 readonly script_name='raspi-backup'
 
-# https://github.com/seanbreckenridge/havecmd
+# https://github.com/purarue/havecmd
 havecmd() {
 	local BINARY ERRMSG
 	# error if first argument isn't provided
